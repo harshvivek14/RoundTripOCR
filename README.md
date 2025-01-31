@@ -6,7 +6,7 @@ This repository supports research and development in the field of post-OCR error
 
 ---
 
-Paper link - Coming soon
+Paper link - https://aclanthology.org/2024.icon-1.33
 
 ---
 
